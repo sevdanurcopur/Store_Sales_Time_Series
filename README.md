@@ -72,4 +72,4 @@ jupyter notebook
 
 ## Contributors
 
-This project is maintained by Sefa Berk Acar, Sevda Nur Çopur, Ömer Aydoğdu, and Metin Kuriş. Contributions are welcome. Please open an issue first to discuss proposed changes.
+This project is maintained by Sevda Nur Çopur,Sefa Berk Acar, Ömer Aydoğdu, and Metin Kuriş. Contributions are welcome. Please open an issue first to discuss proposed changes.
