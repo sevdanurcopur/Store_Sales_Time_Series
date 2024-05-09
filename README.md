@@ -61,7 +61,9 @@ For this project, we created a customized model for each combination of store an
 - Optuna for hyperparameter optimization
 - Power BI for data visualization and reporting
 - Streamlit
-
+### Access streamlit page 
+you can access the streamlit page 
+https://storesaletimeseries.streamlit.app/
 ## How to Run the Project
 
 ```bash
